@@ -1,0 +1,15 @@
+# Nmap 7.95 scan initiated Mon Jun 23 11:55:55 2025 as: /usr/lib/nmap/nmap -sS -oN results.txt 192.168.1.0/24
+# Nmap done at Mon Jun 23 11:59:22 2025 -- 256 IP addresses (0 hosts up) scanned in 207.13 seconds
+
+to find id addrss in linux : ip addr
+to find tcp syn packet sudo nmap -sS <ip address> 
+
+22 (SSH): Remote shell
+
+80 (HTTP): Web traffic
+
+443 (HTTPS): Secure Web traffic
+
+445 (SMB): Windows file sharing
+
+3306 (MySQL): Database
