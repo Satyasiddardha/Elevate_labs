@@ -1,4 +1,4 @@
-##### WebScaNexus
+# WebScaNexus
 
 WebScaNexus is a web vulnerability scanner built with Flask. It scans target URLs for common vulnerabilities such as SQL Injection (SQLi), Cross Site Scripting (XSS), and Cross Site Request Forgery (CSRF). Scan results are presented in a user-friendly web interface and can be exported as CSV or PDF reports.
 
