@@ -5,7 +5,6 @@ from .detector import detect_vulnerability
 
 def run_scan(url, selected_vulns):
     forms = get_forms(url)
-
     findings = []
 
     severity_map = {
